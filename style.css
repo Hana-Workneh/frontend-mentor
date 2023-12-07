@@ -35,13 +35,14 @@ body{
   }
 
 .container {
-  padding: 2px 16px;
+  padding: 2px 15px 24px;
   font-family: 'Outfit', sans-serif;
 }
 h1{
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     font-size: 18px;
+    padding: 2px 18px;
 }
 p{
     font-size: 15px;
